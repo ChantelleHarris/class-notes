@@ -16,3 +16,5 @@ those are 'on top' or loaded first.
 //Functions are blocks of code designed to perform a task
 //Scope -Hierarchy of variables in our code- commonly referred to as global
 //scope, local scope, parent scope, and child scope
+
+//I need actual homework
